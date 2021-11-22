@@ -1,0 +1,229 @@
+name,,slug,value,date_of_information,ranking,region
+China,156,china,"751,886,119",,1,East Asia/Southeast Asia
+India,356,india,"446,759,327",,2,South Asia
+United States,840,united-states,"285,519,020",,3,North America
+Brazil,76,brazil,"140,908,998",,4,South America
+Russia,643,russia,"114,920,477",,5,Central Asia
+Japan,392,japan,"106,725,643",,6,East Asia/Southeast Asia
+Indonesia,360,indonesia,"104,563,108",,7,East Asia/Southeast Asia
+Nigeria,566,nigeria,"85,450,052",,8,Africa
+Mexico,484,mexico,"82,843,369",,9,North America
+Germany,276,germany,"72,202,773",,10,Europe
+Vietnam,704,vietnam,"68,267,875",,11,East Asia/Southeast Asia
+Philippines,608,philippines,"63,588,975",,12,East Asia/Southeast Asia
+United Kingdom,826,united-kingdom,"61,784,878",,13,Europe
+Iran,364,iran,"58,117,322",,14,Middle East
+Turkey,792,turkey,"57,725,143",,15,Middle East
+France,250,france,"55,265,718",,16,Europe
+"Korea, South",410,korea-south,"49,309,955",,17,East Asia/Southeast Asia
+Egypt,818,egypt,"46,644,728",,18,Africa
+Italy,380,italy,"46,305,301",,19,Europe
+Spain,724,spain,"42,478,990",,20,Europe
+Thailand,764,thailand,"38,987,531",,21,East Asia/Southeast Asia
+Pakistan,586,pakistan,"34,734,689",,22,South Asia
+Canada,124,canada,"33,743,954",,23,North America
+Argentina,32,argentina,"33,203,320",,24,South America
+South Africa,710,south-africa,"31,107,064",,25,Africa
+Saudi Arabia,682,saudi-arabia,"30,877,318",,26,Middle East
+Colombia,170,colombia,"29,990,017",,27,South America
+Poland,616,poland,"29,791,401",,28,Europe
+Ukraine,804,ukraine,"25,883,509",,29,Europe
+Malaysia,458,malaysia,"25,829,444",,30,East Asia/Southeast Asia
+Algeria,12,algeria,"24,819,531",,31,Africa
+Bangladesh,50,bangladesh,"23,917,950",,32,South Asia
+Morocco,504,morocco,"22,596,729",,33,Africa
+Taiwan,158,taiwan,"21,845,944",,34,East Asia/Southeast Asia
+Australia,36,australia,"21,419,302",,35,Australia - Oceania
+Venezuela,862,venezuela,"21,354,499",,36,South America
+Ethiopia,231,ethiopia,"19,118,470",,37,Africa
+Iraq,368,iraq,"18,364,390",,38,Middle East
+Burma,#N/A,burma,"17,064,985",,39,East Asia/Southeast Asia
+Peru,604,peru,"16,461,427",,40,South America
+Netherlands,528,netherlands,"16,243,928",,41,Europe
+Uzbekistan,860,uzbekistan,"15,705,402",,42,Central Asia
+Romania,642,romania,"15,165,890",,43,Europe
+Kazakhstan,398,kazakhstan,"14,789,448",,44,Central Asia
+Chile,152,chile,"14,757,868",,45,South America
+Tanzania,834,tanzania,"13,862,836",,46,Africa
+Sudan,#N/A,sudan,"13,311,404",,47,Africa
+Cote d'Ivoire,384,cote-divoire,"12,295,204",,48,Africa
+Ghana,288,ghana,"10,959,964",,49,Africa
+Guatemala,320,guatemala,"10,777,827",,50,Central America
+Belgium,56,belgium,"10,258,638",,51,Europe
+Nepal,524,nepal,"10,103,980",,52,South Asia
+Uganda,800,uganda,"9,620,681",,53,Africa
+United Arab Emirates,784,united-arab-emirates,"9,550,945",,54,Middle East
+Ecuador,218,ecuador,"9,448,692",,55,South America
+Sweden,752,sweden,"9,251,773",,56,Europe
+Kenya,404,kenya,"9,129,243",,57,Africa
+Czechia,203,czechia,"8,622,750",,58,Europe
+"Congo, Democratic Republic of the",178,congo-democratic-republic-of-the,"8,231,357",,59,Africa
+Azerbaijan,31,azerbaijan,"8,017,120",,60,Middle East
+Greece,300,greece,"7,783,381",,61,Europe
+Portugal,620,portugal,"7,731,411",,62,Europe
+Austria,40,austria,"7,712,665",,63,Europe
+Dominican Republic,214,dominican-republic,"7,705,529",,64,Central America
+Sri Lanka,144,sri-lanka,"7,700,876",,65,South Asia
+Yemen,887,yemen,"7,659,884",,66,Middle East
+Belarus,112,belarus,"7,539,145",,67,Europe
+Hungary,348,hungary,"7,474,413",,68,Europe
+Switzerland,756,switzerland,"7,437,820",,69,Europe
+Tunisia,788,tunisia,"7,392,242",,70,Africa
+Jordan,400,jordan,"6,985,174",,71,Middle East
+Senegal,686,senegal,"6,909,635",,72,Africa
+Israel,376,israel,"6,873,037",,73,Middle East
+Cambodia,116,cambodia,"6,579,808",,74,East Asia/Southeast Asia
+Hong Kong,344,hong-kong,"6,450,167",,75,East Asia/Southeast Asia
+Cuba,#N/A,cuba,"6,353,020",,76,Central America
+Cameroon,120,cameroon,"6,089,200",,77,Africa
+Syria,760,syria,"6,077,510",,78,Middle East
+Denmark,208,denmark,"5,672,398",,79,Europe
+Singapore,702,singapore,"5,286,665",,80,East Asia/Southeast Asia
+Serbia,688,serbia,"5,192,501",,81,Europe
+Norway,578,norway,"5,183,627",,82,Europe
+Bolivia,68,bolivia,"4,955,569",,83,South America
+Finland,246,finland,"4,922,163",,84,Europe
+Lebanon,422,lebanon,"4,769,039",,85,Middle East
+Afghanistan,4,afghanistan,"4,717,013",,86,South Asia
+Bulgaria,100,bulgaria,"4,571,851",,87,Europe
+Paraguay,600,paraguay,"4,566,043",,88,South America
+Slovakia,703,slovakia,"4,391,969",,89,Europe
+Angola,#N/A,angola,"4,353,033",,90,Africa
+New Zealand,554,new-zealand,"4,340,672",,91,Australia - Oceania
+Ireland,372,ireland,"4,283,516",,92,Europe
+Zimbabwe,716,zimbabwe,"3,796,618",,93,Africa
+Costa Rica,188,costa-rica,"3,694,974",,94,Central America
+Haiti,332,haiti,"3,503,006",,95,Central America
+Burkina Faso,854,burkina-faso,"3,158,834",,96,Africa
+Georgia,268,georgia,"3,151,218",,97,Middle East
+Croatia,191,croatia,"3,104,212",,98,Europe
+Kuwait,414,kuwait,"2,904,801",,99,Middle East
+Mozambique,508,mozambique,"2,855,670",,100,Africa
+Honduras,340,honduras,"2,853,505",,101,Central America
+Oman,#N/A,oman,"2,801,932",,102,Middle East
+Malawi,454,malawi,"2,734,305",,103,Africa
+Bosnia and Herzegovina,70,bosnia-and-herzegovina,"2,699,544",,104,Europe
+Gaza Strip,#N/A,gaza-strip,"2,673,000", est.,105,Middle East
+West Bank,#N/A,west-bank,"2,673,000", est.,106,Middle East
+Rwanda,646,rwanda,"2,653,197",,107,Africa
+Moldova,498,moldova,"2,616,792",,108,Europe
+Madagascar,450,madagascar,"2,516,994",,109,Africa
+Benin,204,benin,"2,403,596",,110,Africa
+Mali,466,mali,"2,395,886",,111,Africa
+Qatar,634,qatar,"2,355,297",,112,Middle East
+Zambia,894,zambia,"2,351,646",,113,Africa
+Puerto Rico,#N/A,puerto-rico,"2,326,006",,114,Central America
+Uruguay,858,uruguay,"2,300,557",,115,South America
+Lithuania,440,lithuania,"2,226,806",,116,Europe
+Kyrgyzstan,417,kyrgyzstan,"2,222,732",,117,Central Asia
+Panama,591,panama,"2,199,433",,118,Central America
+Albania,8,albania,"2,196,613",,119,Europe
+El Salvador,222,el-salvador,"2,153,776",,120,Central America
+Guinea,324,guinea,"2,133,974",,121,Africa
+Armenia,51,armenia,"1,966,942",,122,Middle East
+Tajikistan,762,tajikistan,"1,889,632",,123,Central Asia
+Laos,#N/A,laos,"1,845,437",,124,East Asia/Southeast Asia
+Kosovo,383,kosovo,"1,706,150",,125,Europe
+Nicaragua,558,nicaragua,"1,695,340",,126,Central America
+Slovenia,705,slovenia,"1,676,445",,128,Europe
+Latvia,428,latvia,"1,607,711",,129,Europe
+Jamaica,388,jamaica,"1,548,618",,130,Central America
+Libya,434,libya,"1,440,859",,131,Africa
+Bahrain,48,bahrain,"1,423,039",,132,Middle East
+Gabon,266,gabon,"1,313,802",,133,Africa
+Namibia,516,namibia,"1,291,944",,134,Africa
+Turkmenistan,795,turkmenistan,"1,149,840",,135,Central Asia
+Estonia,233,estonia,"1,111,896",,136,Europe
+Niger,562,niger,"1,110,778",,137,Africa
+Botswana,72,botswana,"1,057,079",,138,Africa
+Cyprus,196,cyprus,"1,044,473",,139,Europe
+Chad,148,chad,"1,029,153",,140,Africa
+Togo,768,togo,"1,010,609",,141,Africa
+Trinidad and Tobago,11,trinidad-and-tobago,"939,967",,142,Central America
+South Sudan,728,south-sudan,"814,326",,143,Africa
+Mauritius,480,mauritius,"799,470",,144,Africa
+Mauritania,478,mauritania,"798,809",,145,Africa
+Papua New Guinea,#N/A,papua-new-guinea,"787,764",,146,East Asia/Southeast Asia
+Mongolia,496,mongolia,"735,823",,147,East Asia/Southeast Asia
+Luxembourg,442,luxembourg,"587,955",,148,Europe
+Lesotho,426,lesotho,"569,114",,149,Africa
+Sierra Leone,694,sierra-leone,"568,099",,150,Africa
+Eswatini,#N/A,eswatini,"510,984",,151,Africa
+Macau,#N/A,macau,"508,052",,152,East Asia/Southeast Asia
+Djibouti,#N/A,djibouti,"492,221",,153,Africa
+Fiji,#N/A,fiji,"462,860",,154,Australia - Oceania
+Montenegro,499,montenegro,"439,311",,155,Europe
+"Congo, Republic of the",180,congo-republic-of-the,"437,865",,156,Africa
+Brunei,#N/A,brunei,"426,234",,157,East Asia/Southeast Asia
+"Gambia, The",270,gambia-the,"406,918",,158,Africa
+Liberia,430,liberia,"383,819",,159,Africa
+Bhutan,64,bhutan,"368,714",,160,South Asia
+Malta,470,malta,"365,521",,161,Europe
+Timor-Leste,#N/A,timor-leste,"363,398",,162,East Asia/Southeast Asia
+Iceland,352,iceland,"340,117",,163,Europe
+Cabo Verde,#N/A,cabo-verde,"330,623",,164,Africa
+Burundi,108,burundi,"298,684",,165,Africa
+Suriname,#N/A,suriname,"292,685",,166,South America
+"Bahamas, The",#N/A,bahamas-the,"282,739",,167,Central America
+Guyana,#N/A,guyana,"276,498",,168,South America
+Central African Republic,140,central-african-republic,"249,336",,169,Africa
+Maldives,#N/A,maldives,"248,004",,170,South Asia
+Barbados,#N/A,barbados,"239,664",,171,Central America
+New Caledonia,#N/A,new-caledonia,"231,887",,172,Australia - Oceania
+Somalia,706,somalia,"225,181",,173,Africa
+French Polynesia,#N/A,french-polynesia,"211,101",,174,Australia - Oceania
+Equatorial Guinea,#N/A,equatorial-guinea,"209,253",,175,Africa
+Belize,#N/A,belize,"181,660",,176,Central America
+Guam,#N/A,guam,"135,073",,177,Australia - Oceania
+Aruba,#N/A,aruba,"113,277",,178,Central America
+Curacao,#N/A,curacao,"102,359",,179,Central America
+Saint Lucia,#N/A,saint-lucia,"84,112",,180,Central America
+Solomon Islands,#N/A,solomon-islands,"78,686",,181,Australia - Oceania
+Andorra,#N/A,andorra,"78,483",,182,Europe
+Eritrea,#N/A,eritrea,"78,215",,183,Africa
+Vanuatu,#N/A,vanuatu,"74,083",,184,Australia - Oceania
+Antigua and Barbuda,#N/A,antigua-and-barbuda,"72,870",,185,Central America
+Guinea-Bissau,#N/A,guinea-bissau,"72,047",,186,Africa
+Bermuda,#N/A,bermuda,"70,016",,187,North America
+Comoros,174,comoros,"69,635",,188,Africa
+Virgin Islands,#N/A,virgin-islands,"68,872",,189,Central America
+Samoa,#N/A,samoa,"67,662",,190,Australia - Oceania
+Grenada,#N/A,grenada,"66,281",,191,Central America
+Sao Tome and Principe,#N/A,sao-tome-and-principe,"61,193",,192,Africa
+Jersey,#N/A,jersey,"58,000", est.,193,Europe
+Seychelles,#N/A,seychelles,"55,616",,194,Africa
+Guernsey,#N/A,guernsey,"55,050", est.,195,Europe
+Dominica,#N/A,dominica,"51,538",,196,Central America
+Faroe Islands,#N/A,faroe-islands,"49,783",,197,Europe
+Cayman Islands,#N/A,cayman-islands,"48,328",,198,Central America
+Tonga,#N/A,tonga,"43,889",,199,Australia - Oceania
+Saint Kitts and Nevis,#N/A,saint-kitts-and-nevis,"42,852",,200,Central America
+Greenland,#N/A,greenland,"40,084",,201,North America
+Liechtenstein,#N/A,liechtenstein,"37,815",,202,Europe
+"Micronesia, Federated States of",#N/A,micronesia-federated-states-of,"36,586",,203,Australia - Oceania
+Monaco,#N/A,monaco,"29,821",,204,Europe
+Marshall Islands,#N/A,marshall-islands,"29,290",,205,Australia - Oceania
+Gibraltar,#N/A,gibraltar,"27,823",,206,Europe
+British Virgin Islands,#N/A,british-virgin-islands,"27,818",,207,Central America
+Saint Vincent and the Grenadines,#N/A,saint-vincent-and-the-grenadines,"22,803",,208,Central America
+San Marino,#N/A,san-marino,"20,328",,209,Europe
+American Samoa,#N/A,american-samoa,"17,000", est.,210,Australia - Oceania
+Northern Mariana Islands,#N/A,northern-mariana-islands,"16,000", est.,211,Australia - Oceania
+Kiribati,#N/A,kiribati,"15,946",,212,Australia - Oceania
+Anguilla,#N/A,anguilla,"14,211",,213,Central America
+Palau,#N/A,palau,"7,650", est.,214,Australia - Oceania
+Nauru,#N/A,nauru,"5,524",,215,Australia - Oceania
+Tuvalu,#N/A,tuvalu,"5,498",,216,Australia - Oceania
+Cook Islands,#N/A,cook-islands,"4,881",,217,Australia - Oceania
+Saint Pierre and Miquelon,#N/A,saint-pierre-and-miquelon,"4,500", est.,218,North America
+Antarctica,#N/A,antarctica,"4,400", est.,219,Antarctica
+Wallis and Futuna,#N/A,wallis-and-futuna,"3,450", est.,220,Australia - Oceania
+Falkland Islands (Islas Malvinas),#N/A,falkland-islands-islas-malvinas,"3,000", est.,221,South America
+Montserrat,#N/A,montserrat,"2,860", est.,222,Central America
+"Saint Helena, Ascension, and Tristan da Cunha",#N/A,saint-helena-ascension-and-tristan-da-cunha,"1,800", est.,223,Africa
+Saint Martin,#N/A,saint-martin,"1,100", est.,224,Central America
+Niue,#N/A,niue,"1,090", est.,225,Australia - Oceania
+Tokelau,#N/A,tokelau,805, est.,226,Australia - Oceania
+Christmas Island,#N/A,christmas-island,790, est.,227,Australia - Oceania
+Norfolk Island,#N/A,norfolk-island,765, est.,228,Australia - Oceania
+Pitcairn Islands,#N/A,pitcairn-islands,54, est.,229,Australia - Oceania

@@ -1,0 +1,237 @@
+name,country_id,slug,value,date_of_information,ranking,region
+China,156,china,"1,397,897,720",July 2021 est.,1,East Asia/Southeast Asia
+India,356,india,"1,339,330,514",July 2021 est.,2,South Asia
+United States,840,united-states,"334,998,398",July 2021 est.,3,North America
+Indonesia,360,indonesia,"275,122,131",July 2021 est.,4,East Asia/Southeast Asia
+Pakistan,586,pakistan,"238,181,034",July 2021 est.,5,South Asia
+Nigeria,566,nigeria,"219,463,862",July 2021 est.,6,Africa
+Brazil,76,brazil,"213,445,417",July 2021 est.,7,South America
+Bangladesh,50,bangladesh,"164,098,818",July 2021 est.,8,South Asia
+Russia,643,russia,"142,320,790",July 2021 est.,9,Central Asia
+Mexico,484,mexico,"130,207,371",July 2021 est.,10,North America
+Japan,392,japan,"124,687,293",July 2021 est.,11,East Asia/Southeast Asia
+Ethiopia,231,ethiopia,"110,871,031",July 2021 est.,12,Africa
+Philippines,608,philippines,"110,818,325",July 2021 est.,13,East Asia/Southeast Asia
+Egypt,818,egypt,"106,437,241",July 2021 est.,14,Africa
+"Congo, Democratic Republic of the",180,congo-democratic-republic-of-the,"105,044,646",July 2021 est.,15,Africa
+Vietnam,704,vietnam,"102,789,598",July 2021 est.,16,East Asia/Southeast Asia
+Iran,364,iran,"85,888,910",July 2021 est.,17,Middle East
+Turkey,792,turkey,"82,482,383",July 2021 est.,18,Middle East
+Germany,276,germany,"79,903,481",July 2021 est.,19,Europe
+Thailand,764,thailand,"69,480,520",July 2021 est.,20,East Asia/Southeast Asia
+France,250,france,"68,084,217",July 2021 est.,21,Europe
+United Kingdom,826,united-kingdom,"67,081,000",June 2020 est.,22,Europe
+Italy,380,italy,"62,390,364",July 2021 est.,23,Europe
+Tanzania,834,tanzania,"62,092,761",July 2021 est.,24,Africa
+Burma,#N/A,burma,"57,069,099",July 2021 est.,25,East Asia/Southeast Asia
+South Africa,710,south-africa,"56,978,635",July 2021 est.,26,Africa
+Kenya,404,kenya,"54,685,051",July 2021 est.,27,Africa
+"Korea, South",410,korea-south,"51,715,162",July 2021 est.,28,East Asia/Southeast Asia
+Colombia,170,colombia,"50,355,650",July 2021 est.,29,South America
+Spain,724,spain,"47,260,584",July 2021 est.,30,Europe
+Sudan,729,sudan,"46,751,152",July 2021 est.,31,Africa
+Argentina,32,argentina,"45,864,941",July 2021 est.,32,South America
+Uganda,800,uganda,"44,712,143",July 2021 est.,33,Africa
+Ukraine,804,ukraine,"43,745,640",July 2021 est.,34,Europe
+Algeria,12,algeria,"43,576,691",July 2021 est.,35,Africa
+Iraq,368,iraq,"39,650,145",July 2021 est.,36,Middle East
+Poland,616,poland,"38,185,913",July 2021 est.,37,Europe
+Canada,124,canada,"37,943,231",July 2021 est.,38,North America
+Afghanistan,4,afghanistan,"37,466,414",July 2021 est.,39,South Asia
+Morocco,504,morocco,"36,561,813",July 2021 est.,40,Africa
+Saudi Arabia,682,saudi-arabia,"34,783,757",July 2021 est.,41,Middle East
+Angola,24,angola,"33,642,646",July 2021 est.,42,Africa
+Malaysia,458,malaysia,"33,519,406",July 2021 est.,43,East Asia/Southeast Asia
+Ghana,288,ghana,"32,372,889",July 2021 est.,44,Africa
+Peru,604,peru,"32,201,224",July 2021 est.,45,South America
+Mozambique,508,mozambique,"30,888,034",July 2021 est.,46,Africa
+Uzbekistan,860,uzbekistan,"30,842,796",July 2021 est.,47,Central Asia
+Nepal,524,nepal,"30,424,878",July 2021 est.,48,South Asia
+Yemen,887,yemen,"30,399,243",July 2021 est.,49,Middle East
+Venezuela,862,venezuela,"29,069,153",July 2021 est.,50,South America
+Cameroon,120,cameroon,"28,524,175",July 2021 est.,51,Africa
+Cote d'Ivoire,384,cote-divoire,"28,088,455",July 2021 est.,52,Africa
+Madagascar,450,madagascar,"27,534,354",July 2021 est.,53,Africa
+"Korea, North",#N/A,korea-north,"25,831,360",July 2021 est.,54,East Asia/Southeast Asia
+Australia,36,australia,"25,809,973",July 2021 est.,55,Australia - Oceania
+Niger,562,niger,"23,605,767",July 2021 est.,56,Africa
+Taiwan,158,taiwan,"23,572,052",July 2021 est.,57,East Asia/Southeast Asia
+Sri Lanka,144,sri-lanka,"23,044,123",July 2021 est.,58,South Asia
+Burkina Faso,854,burkina-faso,"21,382,659",July 2021 est.,59,Africa
+Romania,642,romania,"21,230,362",July 2021 est.,60,Europe
+Syria,760,syria,"20,384,316",July 2021 est.,61,Middle East
+Malawi,454,malawi,"20,308,502",July 2021 est.,62,Africa
+Mali,466,mali,"20,137,527",July 2021 est.,63,Africa
+Kazakhstan,398,kazakhstan,"19,245,793",July 2021 est.,64,Central Asia
+Zambia,894,zambia,"19,077,816",July 2021 est.,65,Africa
+Chile,152,chile,"18,307,925",July 2021 est.,66,South America
+Guatemala,320,guatemala,"17,422,821",July 2021 est.,67,Central America
+Chad,148,chad,"17,414,108",July 2021 est.,68,Africa
+Netherlands,528,netherlands,"17,337,403",July 2021 est.,69,Europe
+Cambodia,116,cambodia,"17,304,363",July 2021 est.,70,East Asia/Southeast Asia
+Ecuador,218,ecuador,"17,093,159",July 2021 est.,71,South America
+Senegal,686,senegal,"16,082,442",July 2021 est.,72,Africa
+Zimbabwe,716,zimbabwe,"14,829,988",July 2021 est.,73,Africa
+Benin,204,benin,"13,301,694",July 2021 est.,74,Africa
+Rwanda,646,rwanda,"12,943,132",July 2021 est.,75,Africa
+Guinea,324,guinea,"12,877,894",July 2021 est.,76,Africa
+Burundi,108,burundi,"12,241,065",July 2021 est.,77,Africa
+Somalia,706,somalia,"12,094,640",July 2021 est.,78,Africa
+Tunisia,788,tunisia,"11,811,335",July 2021 est.,79,Africa
+Belgium,56,belgium,"11,778,842",July 2021 est.,80,Europe
+Bolivia,68,bolivia,"11,758,869",July 2021 est.,81,South America
+Haiti,332,haiti,"11,198,240",July 2021 est.,82,Central America
+Cuba,#N/A,cuba,"11,032,343",July 2021 est.,83,Central America
+South Sudan,728,south-sudan,"10,984,074",July 2021 est.,84,Africa
+Jordan,400,jordan,"10,909,567",July 2021 est.,85,Middle East
+Czechia,203,czechia,"10,702,596",July 2021 est.,86,Europe
+Dominican Republic,214,dominican-republic,"10,597,348",July 2021 est.,87,Central America
+Greece,300,greece,"10,569,703",July 2021 est.,88,Europe
+Azerbaijan,31,azerbaijan,"10,282,283",July 2021 est.,89,Middle East
+Portugal,620,portugal,"10,263,850",July 2021 est.,90,Europe
+Sweden,752,sweden,"10,261,767",July 2021 est.,91,Europe
+United Arab Emirates,784,united-arab-emirates,"9,856,612",July 2021 est.,92,Middle East
+Hungary,348,hungary,"9,728,337",July 2021 est.,93,Europe
+Belarus,112,belarus,"9,441,842",July 2021 est.,94,Europe
+Honduras,340,honduras,"9,346,277",July 2021 est.,95,Central America
+Tajikistan,762,tajikistan,"8,990,874",July 2021 est.,96,Central Asia
+Austria,40,austria,"8,884,864",July 2021 est.,97,Europe
+Israel,376,israel,"8,787,045",July 2021 est.,98,Middle East
+Switzerland,756,switzerland,"8,453,550",July 2021 est.,99,Europe
+Togo,768,togo,"8,283,189",July 2021 est.,100,Africa
+Laos,#N/A,laos,"7,574,356",July 2021 est.,101,East Asia/Southeast Asia
+Papua New Guinea,#N/A,papua-new-guinea,"7,399,757",July 2021 est.,102,East Asia/Southeast Asia
+Paraguay,600,paraguay,"7,272,639",July 2021 est.,103,South America
+Hong Kong,344,hong-kong,"7,263,234",July 2021 est.,104,East Asia/Southeast Asia
+Libya,434,libya,"7,017,224",July 2021 est.,105,Africa
+Serbia,688,serbia,"6,974,289",July 2021 est.,106,Europe
+Bulgaria,100,bulgaria,"6,919,180",July 2021 est.,107,Europe
+Sierra Leone,694,sierra-leone,"6,807,277",July 2021 est.,108,Africa
+El Salvador,222,el-salvador,"6,528,135",July 2021 est.,109,Central America
+Nicaragua,558,nicaragua,"6,243,931",July 2021 est.,110,Central America
+Eritrea,#N/A,eritrea,"6,147,398",July 2021 est.,111,Africa
+Kyrgyzstan,417,kyrgyzstan,"6,018,789",July 2021 est.,112,Central Asia
+Denmark,208,denmark,"5,894,687",July 2021 est.,113,Europe
+Singapore,702,singapore,"5,866,139",July 2021 est.,114,East Asia/Southeast Asia
+Finland,246,finland,"5,587,442",July 2021 est.,115,Europe
+Turkmenistan,795,turkmenistan,"5,579,889",July 2021 est.,116,Central Asia
+Norway,578,norway,"5,509,591",July 2021 est.,117,Europe
+Slovakia,703,slovakia,"5,436,066",July 2021 est.,118,Europe
+"Congo, Republic of the",178,congo-republic-of-the,"5,417,414",July 2021 est.,119,Africa
+Central African Republic,140,central-african-republic,"5,357,984",July 2021 est.,120,Africa
+Lebanon,422,lebanon,"5,261,372",July 2021 est.,121,Middle East
+Ireland,372,ireland,"5,224,884",July 2021 est.,122,Europe
+Liberia,430,liberia,"5,214,030",July 2021 est.,123,Africa
+Costa Rica,188,costa-rica,"5,151,140",July 2021 est.,124,Central America
+New Zealand,554,new-zealand,"4,991,442",July 2021 est.,125,Australia - Oceania
+Georgia,268,georgia,"4,933,674",July 2021 est.,126,Middle East
+Croatia,191,croatia,"4,208,973",July 2021 est.,127,Europe
+Mauritania,478,mauritania,"4,079,284",July 2021 est.,128,Africa
+Panama,591,panama,"3,928,646",July 2021 est.,129,Central America
+Bosnia and Herzegovina,70,bosnia-and-herzegovina,"3,824,782",July 2021 est.,130,Europe
+Oman,#N/A,oman,"3,694,755",July 2021 est.,131,Middle East
+Uruguay,858,uruguay,"3,398,239",July 2021 est.,132,South America
+Moldova,498,moldova,"3,323,875",July 2021 est.,133,Europe
+Mongolia,496,mongolia,"3,198,913",July 2021 est.,134,East Asia/Southeast Asia
+Puerto Rico,#N/A,puerto-rico,"3,142,779",July 2021 est.,135,Central America
+Albania,8,albania,"3,088,385",July 2021 est.,136,Europe
+Kuwait,414,kuwait,"3,032,065",July 2021 est.,137,Middle East
+Armenia,51,armenia,"3,011,609",July 2021 est.,138,Middle East
+West Bank,#N/A,west-bank,"2,949,246",July 2021 est.,139,Middle East
+Jamaica,388,jamaica,"2,816,602",July 2021 est.,140,Central America
+Lithuania,440,lithuania,"2,711,566",July 2021 est.,141,Europe
+Namibia,516,namibia,"2,678,191",July 2021 est.,142,Africa
+Qatar,634,qatar,"2,479,995",July 2021 est.,143,Middle East
+Botswana,72,botswana,"2,350,667",July 2021 est.,144,Africa
+Gabon,266,gabon,"2,284,912",July 2021 est.,145,Africa
+"Gambia, The",270,gambia-the,"2,221,301",July 2021 est.,146,Africa
+Lesotho,426,lesotho,"2,177,740",July 2021 est.,147,Africa
+Slovenia,705,slovenia,"2,102,106",July 2021 est.,149,Europe
+Guinea-Bissau,#N/A,guinea-bissau,"1,976,187",July 2021 est.,150,Africa
+Gaza Strip,#N/A,gaza-strip,"1,957,062",July 2021 est.,151,Middle East
+Kosovo,383,kosovo,"1,935,259",July 2021 est.,152,Europe
+Latvia,428,latvia,"1,862,687",July 2021 est.,153,Europe
+Bahrain,48,bahrain,"1,526,929",July 2021 est.,154,Middle East
+Timor-Leste,#N/A,timor-leste,"1,413,958",July 2021 est.,155,East Asia/Southeast Asia
+Mauritius,480,mauritius,"1,386,129",July 2021 est.,156,Africa
+Cyprus,196,cyprus,"1,281,506",July 2021 est.,157,Europe
+Trinidad and Tobago,11,trinidad-and-tobago,"1,221,047",July 2021 est.,158,Central America
+Estonia,233,estonia,"1,220,042",July 2021 est.,159,Europe
+Eswatini,#N/A,eswatini,"1,113,276",July 2021 est.,160,Africa
+Fiji,#N/A,fiji,"939,535",July 2021 est.,161,Australia - Oceania
+Djibouti,#N/A,djibouti,"938,413",July 2021 est.,162,Africa
+Comoros,174,comoros,"864,335",July 2021 est.,163,Africa
+Bhutan,64,bhutan,"857,423",July 2021 est.,164,South Asia
+Equatorial Guinea,#N/A,equatorial-guinea,"857,008",July 2021 est.,165,Africa
+Guyana,#N/A,guyana,"787,971",July 2021 est.,166,South America
+Solomon Islands,#N/A,solomon-islands,"690,598",July 2021 est.,167,Australia - Oceania
+Luxembourg,442,luxembourg,"639,589",July 2021 est.,168,Europe
+Macau,#N/A,macau,"630,396",July 2021 est.,169,East Asia/Southeast Asia
+Suriname,#N/A,suriname,"614,749",July 2021 est.,170,South America
+Montenegro,499,montenegro,"607,414",July 2021 est.,171,Europe
+Cabo Verde,#N/A,cabo-verde,"589,451",July 2021 est.,172,Africa
+Brunei,#N/A,brunei,"471,103",July 2021 est.,173,East Asia/Southeast Asia
+Malta,470,malta,"460,891",July 2021 est.,174,Europe
+Belize,84,belize,"405,633",July 2021 est.,175,Central America
+Maldives,#N/A,maldives,"390,669",July 2021 est.,176,South Asia
+Iceland,352,iceland,"354,234",July 2021 est.,177,Europe
+"Bahamas, The",#N/A,bahamas-the,"352,655",July 2021 est.,178,Central America
+Vanuatu,#N/A,vanuatu,"303,009",July 2021 est.,179,Australia - Oceania
+Barbados,#N/A,barbados,"301,865",July 2021 est.,180,Central America
+French Polynesia,#N/A,french-polynesia,"297,154",July 2021 est.,181,Australia - Oceania
+New Caledonia,#N/A,new-caledonia,"293,608",July 2021 est.,182,Australia - Oceania
+Sao Tome and Principe,#N/A,sao-tome-and-principe,"213,948",July 2021 est.,183,Africa
+Samoa,#N/A,samoa,"204,898",July 2021 est.,184,Australia - Oceania
+Guam,#N/A,guam,"168,801",July 2021 est.,185,Australia - Oceania
+Saint Lucia,#N/A,saint-lucia,"166,637",July 2021 est.,186,Central America
+Curacao,#N/A,curacao,"151,885",July 2021 est.,187,Central America
+Aruba,#N/A,aruba,"120,917",July 2021 est.,188,Central America
+Grenada,#N/A,grenada,"113,570",July 2021 est.,189,Central America
+Kiribati,#N/A,kiribati,"113,001",July 2021 est.,190,Australia - Oceania
+Virgin Islands,#N/A,virgin-islands,"105,870",July 2021 est.,191,Central America
+Tonga,#N/A,tonga,"105,780",July 2021 est.,192,Australia - Oceania
+"Micronesia, Federated States of",#N/A,micronesia-federated-states-of,"101,675",July 2021 est.,193,Australia - Oceania
+Jersey,#N/A,jersey,"101,476",July 2021 est.,194,Europe
+Saint Vincent and the Grenadines,#N/A,saint-vincent-and-the-grenadines,"101,145",July 2021 est.,195,Central America
+Antigua and Barbuda,#N/A,antigua-and-barbuda,"99,175",July 2021 est.,196,Central America
+Seychelles,#N/A,seychelles,"96,387",July 2021 est.,197,Africa
+Isle of Man,#N/A,isle-of-man,"90,895",July 2021 est.,198,Europe
+Andorra,#N/A,andorra,"85,645",July 2021 est.,199,Europe
+Marshall Islands,#N/A,marshall-islands,"78,831",July 2021 est.,200,Australia - Oceania
+Dominica,#N/A,dominica,"74,584",July 2021 est.,201,Central America
+Bermuda,#N/A,bermuda,"72,084",July 2021 est.,202,North America
+Guernsey,#N/A,guernsey,"67,334",July 2021 est.,203,Europe
+Cayman Islands,#N/A,cayman-islands,"63,131",July 2021 est.,204,Central America
+Greenland,#N/A,greenland,"57,799",July 2021 est.,205,North America
+Turks and Caicos Islands,#N/A,turks-and-caicos-islands,"57,196",July 2021 est.,206,Central America
+Saint Kitts and Nevis,#N/A,saint-kitts-and-nevis,"54,149",July 2021 est.,207,Central America
+Faroe Islands,#N/A,faroe-islands,"51,943",July 2021 est.,208,Europe
+Northern Mariana Islands,#N/A,northern-mariana-islands,"51,659",July 2021 est.,209,Australia - Oceania
+American Samoa,#N/A,american-samoa,"46,366",July 2021 est.,210,Australia - Oceania
+Sint Maarten,#N/A,sint-maarten,"44,564",July 2021 est.,211,Central America
+Liechtenstein,#N/A,liechtenstein,"39,425",July 2021 est.,212,Europe
+British Virgin Islands,#N/A,british-virgin-islands,"37,891",July 2021 est.,213,Central America
+San Marino,#N/A,san-marino,"34,467",July 2021 est.,214,Europe
+Saint Martin,#N/A,saint-martin,"32,680",July 2021 est.,215,Central America
+Monaco,#N/A,monaco,"31,223",July 2021 est.,216,Europe
+Gibraltar,#N/A,gibraltar,"29,516",July 2021 est.,217,Europe
+Palau,#N/A,palau,"21,613",July 2021 est.,218,Australia - Oceania
+Anguilla,#N/A,anguilla,"18,403",July 2021 est.,219,Central America
+Wallis and Futuna,#N/A,wallis-and-futuna,"15,851",July 2021 est.,220,Australia - Oceania
+Tuvalu,#N/A,tuvalu,"11,448",July 2021 est.,221,Australia - Oceania
+Nauru,#N/A,nauru,"9,770",July 2021 est.,222,Australia - Oceania
+Cook Islands,#N/A,cook-islands,"8,327",July 2021 est.,223,Australia - Oceania
+"Saint Helena, Ascension, and Tristan da Cunha",#N/A,saint-helena-ascension-and-tristan-da-cunha,"7,915",July 2021 est.,224,Africa
+Saint Barthelemy,#N/A,saint-barthelemy,"7,116",July 2021 est.,225,Central America
+Montserrat,#N/A,montserrat,"5,387",July 2021 est.,226,Central America
+Saint Pierre and Miquelon,#N/A,saint-pierre-and-miquelon,"5,321",July 2021 est.,227,North America
+Falkland Islands (Islas Malvinas),#N/A,falkland-islands-islas-malvinas,"3,198",2016 est.,228,South America
+Svalbard,#N/A,svalbard,"2,926",January 2021 est.,229,Europe
+Christmas Island,#N/A,christmas-island,"2,205",2016 est.,230,Australia - Oceania
+Niue,#N/A,niue,"2,000",July 2021 est.,231,Australia - Oceania
+Norfolk Island,#N/A,norfolk-island,"1,748",2016 est.,232,Australia - Oceania
+Tokelau,#N/A,tokelau,"1,647",2019 est.,233,Australia - Oceania
+Paracel Islands,#N/A,paracel-islands,"1,440",July 2014 est.,234,East Asia/Southeast Asia
+Holy See (Vatican City),#N/A,holy-see-vatican-city,"1,000",2019 est.,235,Europe
+Cocos (Keeling) Islands,#N/A,cocos-keeling-islands,596,July 2014 est.,236,Australia - Oceania
+Pitcairn Islands,#N/A,pitcairn-islands,50,2021 est.,237,Australia - Oceania
